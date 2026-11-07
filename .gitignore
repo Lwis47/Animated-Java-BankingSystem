@@ -1,0 +1,12 @@
+#Compiled java files
+*.class
+
+#Temporary generated files output/
+tmp/
+
+# Banking data and backups accounts.bank
+accounts.dat.migrated.bak
+admin.properties
+
+#IDE files
+.vscode/
